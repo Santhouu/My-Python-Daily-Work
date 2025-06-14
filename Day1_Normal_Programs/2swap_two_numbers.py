@@ -1,4 +1,4 @@
-# Swap two numbers using a temporary variable
+# Swap two numbers using a temporary variables
 a = int(input("Enter first number (a): "))
 b = int(input("Enter second number (b): "))
 
